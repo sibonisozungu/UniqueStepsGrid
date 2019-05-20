@@ -1,0 +1,6 @@
+c:\users\a229900\documents\visual studio 2017\Projects\AbsaCapitalTwo\AbsaCapitalTwo\bin\Debug\AbsaCapitalTwo.exe.config
+c:\users\a229900\documents\visual studio 2017\Projects\AbsaCapitalTwo\AbsaCapitalTwo\bin\Debug\AbsaCapitalTwo.exe
+c:\users\a229900\documents\visual studio 2017\Projects\AbsaCapitalTwo\AbsaCapitalTwo\bin\Debug\AbsaCapitalTwo.pdb
+c:\users\a229900\documents\visual studio 2017\Projects\AbsaCapitalTwo\AbsaCapitalTwo\obj\Debug\AbsaCapitalTwo.csprojResolveAssemblyReference.cache
+c:\users\a229900\documents\visual studio 2017\Projects\AbsaCapitalTwo\AbsaCapitalTwo\obj\Debug\AbsaCapitalTwo.exe
+c:\users\a229900\documents\visual studio 2017\Projects\AbsaCapitalTwo\AbsaCapitalTwo\obj\Debug\AbsaCapitalTwo.pdb
